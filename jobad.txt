@@ -1,24 +1,24 @@
-The Technical University of Nuremberg is looking for a full-time position for 
-the Department of Engineering as soon as possible.
+The University of Technology Nuremberg (UTN) is looking to fill a full-time
+position in the Department of Engineering as soon as possible:
 
 # Research Associate - Postdoc (m/f/d) in Natural Language Understanding (NLU)
 
-The Department of Engineering strives for particularly intensive cooperation 
-between the engineering, humanities, social and natural sciences. The Technical
-University of Nuremberg pursues the goal of contributing knowledge and know-how
-from the humanities disciplines to the shaping of change towards a sustainable 
-society. The activity serves the scientific qualification, which can be pursued
-with appropriate professional aptitude and personal requirements. The research
-project should make a contribution to one of the NLU Lab's key research areas 
-listed below.
+UTN is dedicated to harnessing the knowledge and innovation of the humanities
+to shape a sustainable future. The Department of Engineering seeks to establish 
+strong, dynamic collaboration across disciplines, connecting engineering with 
+the humanities, social sciences, and natural sciences. The position offers an
+opportunity for scientific qualification, allowing you to build your research
+profile and gain experience in line with your academic background and personal
+aspirations. The research project should make a contribution to one of the NLU
+Lab's key research areas listed below.
 
 ## Your tasks
 
-* Collaboration in research and teaching
-* Participation in lab's main research areas "background knowledge in language 
+* Active collaboration in research and teaching
+* Participation in the lab's research areas "background knowledge in language 
 understanding and misunderstanding" and "implicit and underspecified language" 
 * Support in the conception and organization of scientific events and public 
-relations projects (in coordination with the Communication Unit)
+engangement projects (in coordination with the Communication Unit)
 * Participation in research cooperations of the department
 
 ## Your profile
@@ -26,7 +26,8 @@ relations projects (in coordination with the Communication Unit)
 * Very good academic degree (Master's or comparable) in computational 
 linguistics or a related field
 * Doctorate in the field of computational linguistics
-* Proven research focus in machine language understanding through publications
+* Proven research focus in natural language understanding, as demonstrated
+by relevant publications.
 * Interest in interdisciplinary cooperation in research and teaching
 
 ## We offer
@@ -50,23 +51,26 @@ applicants will be given preference if they have the same suitability,
 qualifications and professional performance. 
 
 Women are encouraged to apply in accordance with Art. 7 Para. 3 of the Bavarian
-Equal Opportunities Act.
+Equal Opportunities Act. The NLU Lab is committed to fostering a diverse and
+inclusive work environment and we highly welcome applications from minority
+groups and candidates of all backgrounds.
 
-The position can be filled in part-time, provided that full-time performance 
-of the duties is ensured through job sharing.
+The position is open to part-time arrangements, provided that the 
+responsibilities can be fulfilled through job sharing.
 
 ## Are you interested?
 
-Then please send us your detailed application by 03.11.2024. Please only use our
+Please send us your detailed application by 03.11.2024. Please only use our
 application portal. Interviews for this vacancy are expected to take place in
 the week commencing 10.11.2024.
 
+Job portal: https://jobs.utn.de/en/jobposting/ead54f69ce980cfe6f7d04fba57812b88328f4a00/apply
+
 # Do you have questions?
 
-We will be happy to answer your questions by e-mail to jobs@utn.de, quoting the
-reference number ENG-2024-04, and will call you back. If you have any questions 
-about the position, please contact Prof. Dr. Michael Roth at michael.roth@utn.de
+We are happy to receive general questions by e-mail to jobs@utn.de, quoting the
+reference number ENG-2024-04, and we will call you back. If you have content 
+related questions, please contact Prof. Dr. Michael Roth at michael.roth@utn.de
 
-Application portal: https://jobs.utn.de/en/jobposting/ead54f69ce980cfe6f7d04fba57812b88328f4a00/apply
 
 The official version of this announcement is available in German on www.utn.de
